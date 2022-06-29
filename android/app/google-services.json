@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039890683514",
+    "project_id": "taskone-17676",
+    "storage_bucket": "taskone-17676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039890683514:android:34885ca32d1cbfc024cdc3",
+        "android_client_info": {
+          "package_name": "com.example.taskone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039890683514-povpc4i3g4fbje8h0kfer6r59d52kg4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUA4bQFkPHDdpcf4C7sDj3xNTTZtZI6gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039890683514-povpc4i3g4fbje8h0kfer6r59d52kg4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
